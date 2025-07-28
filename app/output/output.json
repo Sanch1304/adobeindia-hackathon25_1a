@@ -1,0 +1,505 @@
+{
+  "title": "Contents",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Contents",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Chapter 1. Complex samples",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Introduction to Complex Samples Procedures",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Properties of Complex Samples",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Usage of Complex Samples Procedures",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Plan Files",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Further Readings",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Sampling from a Complex Design",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Creating a New Sample Plan",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Sampling Wizard: Design Variables",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Tree Controls for Navigating the Sampling Wizard",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Sampling Wizard: Sampling Method",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Sampling Wizard: Sample Size",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Define Unequal Sizes",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Sampling Wizard: Output Variables",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Sampling Wizard: Plan Summary",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Sampling Wizard: Draw Sample Selection Options",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Sampling Wizard: Draw Sample Output Files",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Sampling Wizard: Finish",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Sampling Wizard: Plan Summary",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Running an Existing Sample Plan",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "CSPLAN and CSSELECT Commands Additional Features",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Preparing a Complex Sample for Analysis",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Creating a New Analysis Plan",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Analysis Preparation Wizard: Design Variables",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "e Controls for Navigating the Analysis Wizard",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Analysis Preparation Wizard: Estimation Method",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Analysis Preparation Wizard: Size",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Define Unequal Sizes",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "alysis Preparation Wizard: Plan Summary",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Analysis Preparation Wizard: Finish",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Modifying an Existing Analysis Plan",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Analysis Preparation Wizard: Plan Summary",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Complex Samples Plan",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Complex Samples Frequencies",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Frequencies Statistics",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Missing Values",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Options",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Complex Samples Descriptives",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Descriptives Statistics",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Descriptives Missing Values",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Options",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Figure 5. Options dialog box",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Crosstabs Statistics",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Missing Values",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Options",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Complex Samples Ratios",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Ratios Statistics",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Ratios Missing Values",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Options",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Complex Samples General Linear Model",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Analyze > Complex Samples > General Linear Model...",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples General Linear Model",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples General Linear Model Statistics",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Hypothesis Tests",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Samples General Linear Model Estimated M",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples General Linear Model Save",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "plex Samples General Linear Model Option",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "CSGLM Command Additional Features",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Complex Samples Logistic Regression",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Logistic Regression Reference Category",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Logistic Regression Model",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "plex Samples Logistic Regression Statistics",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Hypothesis Tests",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Logistic Regression Odds Ratios",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Logistic Regression Save",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "mplex Samples Logistic Regression Option",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "CSLOGISTIC Command Additional Features",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "Complex Samples Ordinal Regression",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Analyze > Complex Samples > Ordinal Regression...",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Ordinal Regression Response Probabilities",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Ordinal Regression Model",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Non-Nested Terms",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Ordinal Regression Statistics",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Hypothesis Tests",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Ordinal Regression Odds Ratios",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Ordinal Regression Save",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "Complex Samples Ordinal Regression Options",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "CSORDINAL Command Additional Features",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Complex Samples Cox Regression",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "Predictors",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Define Time-Dependent Predictor",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Subgroups",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Model",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Statistics",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Plots",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Hypothesis Tests",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Save",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Export",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "Options",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "CSCOXREG Command Additional Features",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "Notices",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Trademarks",
+      "page": 42
+    },
+    {
+      "level": "H1",
+      "text": "Index",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "A",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "C",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "D",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "M",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "E",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "S",
+      "page": 45
+    }
+  ]
+}

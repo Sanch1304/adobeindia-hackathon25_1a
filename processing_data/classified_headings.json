@@ -1,0 +1,2634 @@
+[
+  {
+    "page": 3,
+    "text": "Contents",
+    "font_sizes": [
+      20.0
+    ],
+    "normalized_font_sizes": [
+      1.0
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      64,
+      70,
+      205,
+      113
+    ],
+    "is_bold": 1,
+    "level": "H1",
+    "label": "H1",
+    "class": "heading"
+  },
+  {
+    "page": 5,
+    "text": "Chapter 1. Complex samples",
+    "font_sizes": [
+      20.0
+    ],
+    "normalized_font_sizes": [
+      1.0
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      39,
+      69,
+      486,
+      114
+    ],
+    "is_bold": 1,
+    "level": "H1",
+    "label": "H1",
+    "class": "heading"
+  },
+  {
+    "page": 5,
+    "text": "Introduction to Complex Samples Procedures",
+    "font_sizes": [
+      16.0
+    ],
+    "normalized_font_sizes": [
+      0.8
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      38,
+      190,
+      597,
+      227
+    ],
+    "is_bold": 1,
+    "level": "H2",
+    "label": "H2",
+    "class": "heading"
+  },
+  {
+    "page": 5,
+    "text": "Properties of Complex Samples",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      47,
+      353,
+      391,
+      384
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 6,
+    "text": "Usage of Complex Samples Procedures",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      80,
+      60,
+      460,
+      93
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 6,
+    "text": "Plan Files",
+    "font_sizes": [
+      13.0
+    ],
+    "normalized_font_sizes": [
+      0.65
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      109,
+      264,
+      207,
+      294
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 6,
+    "text": "Further Readings",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      60,
+      622,
+      246,
+      653
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 6,
+    "text": "Sampling from a Complex Design",
+    "font_sizes": [
+      16.0
+    ],
+    "normalized_font_sizes": [
+      0.8
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      44,
+      828,
+      453,
+      866
+    ],
+    "is_bold": 1,
+    "level": "H2",
+    "label": "H2",
+    "class": "heading"
+  },
+  {
+    "page": 6,
+    "text": "Creating a New Sample Plan",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      51,
+      933,
+      358,
+      964
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 7,
+    "text": "Sampling Wizard: Design Variables",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      43,
+      419,
+      418,
+      450
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 7,
+    "text": "Tree Controls for Navigating the Sampling Wizard",
+    "font_sizes": [
+      13.0
+    ],
+    "normalized_font_sizes": [
+      0.65
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      74,
+      876,
+      578,
+      907
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 8,
+    "text": "Sampling Wizard: Sampling Method",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      59,
+      57,
+      433,
+      94
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 8,
+    "text": "Sampling Wizard: Sample Size",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      50,
+      751,
+      381,
+      782
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 9,
+    "text": "Define Unequal Sizes",
+    "font_sizes": [
+      13.0
+    ],
+    "normalized_font_sizes": [
+      0.65
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      101,
+      61,
+      314,
+      90
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 9,
+    "text": "Sampling Wizard: Output Variables",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      60,
+      571,
+      427,
+      602
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 10,
+    "text": "Sampling Wizard: Plan Summary",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      47,
+      58,
+      404,
+      94
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 10,
+    "text": "Sampling Wizard: Draw Sample Selection Options",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      31,
+      158,
+      575,
+      189
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 10,
+    "text": "Sampling Wizard: Draw Sample Output Files",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      36,
+      407,
+      520,
+      439
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 10,
+    "text": "Sampling Wizard: Finish",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      53,
+      697,
+      320,
+      728
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 11,
+    "text": "Sampling Wizard: Plan Summary",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      45,
+      221,
+      407,
+      253
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 11,
+    "text": "Running an Existing Sample Plan",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      45,
+      404,
+      405,
+      435
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 11,
+    "text": "CSPLAN and CSSELECT Commands Additional Features",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      30,
+      624,
+      631,
+      655
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 11,
+    "text": "Preparing a Complex Sample for Analysis",
+    "font_sizes": [
+      16.0
+    ],
+    "normalized_font_sizes": [
+      0.8
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      34,
+      832,
+      547,
+      871
+    ],
+    "is_bold": 1,
+    "level": "H2",
+    "label": "H2",
+    "class": "heading"
+  },
+  {
+    "page": 12,
+    "text": "Creating a New Analysis Plan",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      51,
+      60,
+      367,
+      93
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 12,
+    "text": "Analysis Preparation Wizard: Design Variables",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      34,
+      370,
+      541,
+      406
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 12,
+    "text": "e Controls for Navigating the Analysis Wizard",
+    "font_sizes": [
+      13.0
+    ],
+    "normalized_font_sizes": [
+      0.65
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      144,
+      713,
+      524,
+      744
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 12,
+    "text": "Analysis Preparation Wizard: Estimation Method",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      30,
+      826,
+      562,
+      857
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 13,
+    "text": "Analysis Preparation Wizard: Size",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      45,
+      186,
+      414,
+      217
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 13,
+    "text": "Define Unequal Sizes",
+    "font_sizes": [
+      13.0
+    ],
+    "normalized_font_sizes": [
+      0.65
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      100,
+      444,
+      313,
+      476
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 14,
+    "text": "alysis Preparation Wizard: Plan Summary",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      101,
+      58,
+      482,
+      94
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 14,
+    "text": "Analysis Preparation Wizard: Finish",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      45,
+      251,
+      434,
+      287
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 14,
+    "text": "Modifying an Existing Analysis Plan",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      42,
+      408,
+      428,
+      444
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 14,
+    "text": "Analysis Preparation Wizard: Plan Summary",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      37,
+      672,
+      520,
+      703
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 14,
+    "text": "Complex Samples Plan",
+    "font_sizes": [
+      16.0
+    ],
+    "normalized_font_sizes": [
+      0.8
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      53,
+      779,
+      337,
+      816
+    ],
+    "is_bold": 1,
+    "level": "H2",
+    "label": "H2",
+    "class": "heading"
+  },
+  {
+    "page": 15,
+    "text": "Complex Samples Frequencies",
+    "font_sizes": [
+      16.0
+    ],
+    "normalized_font_sizes": [
+      0.8
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      45,
+      58,
+      425,
+      96
+    ],
+    "is_bold": 1,
+    "level": "H2",
+    "label": "H2",
+    "class": "heading"
+  },
+  {
+    "page": 15,
+    "text": "Complex Samples Frequencies Statistics",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      41,
+      588,
+      482,
+      621
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 16,
+    "text": "Complex Samples Missing Values",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      47,
+      63,
+      408,
+      91
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 16,
+    "text": "Complex Samples Options",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      52,
+      500,
+      337,
+      526
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 16,
+    "text": "Complex Samples Descriptives",
+    "font_sizes": [
+      16.0
+    ],
+    "normalized_font_sizes": [
+      0.8
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      43,
+      739,
+      428,
+      775
+    ],
+    "is_bold": 1,
+    "level": "H2",
+    "label": "H2",
+    "class": "heading"
+  },
+  {
+    "page": 17,
+    "text": "Complex Samples Descriptives Statistics",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      40,
+      294,
+      484,
+      325
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 17,
+    "text": "Complex Samples Descriptives Missing Values",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      33,
+      609,
+      539,
+      642
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 17,
+    "text": "Complex Samples Options",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      53,
+      781,
+      337,
+      812
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 17,
+    "text": "Figure 5. Options dialog box",
+    "font_sizes": [
+      10.0
+    ],
+    "normalized_font_sizes": [
+      0.5
+    ],
+    "fonts": [
+      "IBMPlexSans-Italic"
+    ],
+    "flags": [
+      6
+    ],
+    "bbox": [
+      100,
+      943,
+      306,
+      969
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 18,
+    "text": "Complex Samples Crosstabs Statistics",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      80,
+      640,
+      458,
+      670
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 19,
+    "text": "Complex Samples Missing Values",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      45,
+      364,
+      408,
+      397
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 19,
+    "text": "Complex Samples Options",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      53,
+      800,
+      337,
+      829
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 20,
+    "text": "Complex Samples Ratios",
+    "font_sizes": [
+      16.0
+    ],
+    "normalized_font_sizes": [
+      0.8
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      51,
+      58,
+      358,
+      97
+    ],
+    "is_bold": 1,
+    "level": "H2",
+    "label": "H2",
+    "class": "heading"
+  },
+  {
+    "page": 20,
+    "text": "Complex Samples Ratios Statistics",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      44,
+      556,
+      423,
+      589
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 20,
+    "text": "Complex Samples Ratios Missing Values",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      40,
+      854,
+      477,
+      887
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 21,
+    "text": "Complex Samples Options",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      53,
+      61,
+      337,
+      92
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 21,
+    "text": "Complex Samples General Linear Model",
+    "font_sizes": [
+      16.0
+    ],
+    "normalized_font_sizes": [
+      0.8
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      36,
+      303,
+      531,
+      340
+    ],
+    "is_bold": 1,
+    "level": "H2",
+    "label": "H2",
+    "class": "heading"
+  },
+  {
+    "page": 21,
+    "text": "Analyze > Complex Samples > General Linear Model...",
+    "font_sizes": [
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      10.0
+    ],
+    "normalized_font_sizes": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold",
+      "IBMPlexSans",
+      "IBMPlexSans-Bold",
+      "IBMPlexSans",
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20,
+      4,
+      20,
+      4,
+      20
+    ],
+    "bbox": [
+      95,
+      758,
+      524,
+      784
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 22,
+    "text": "Complex Samples General Linear Model",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      80,
+      60,
+      461,
+      93
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 22,
+    "text": "Complex Samples General Linear Model Statistics",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      39,
+      684,
+      572,
+      720
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 23,
+    "text": "Complex Samples Hypothesis Tests",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      42,
+      218,
+      430,
+      250
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 23,
+    "text": "Samples General Linear Model Estimated M",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      165,
+      645,
+      546,
+      681
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 24,
+    "text": "Complex Samples General Linear Model Save",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      33,
+      110,
+      527,
+      142
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 24,
+    "text": "plex Samples General Linear Model Option",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      123,
+      570,
+      503,
+      602
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 24,
+    "text": "CSGLM Command Additional Features",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      43,
+      727,
+      457,
+      758
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 25,
+    "text": "Complex Samples Logistic Regression",
+    "font_sizes": [
+      16.0
+    ],
+    "normalized_font_sizes": [
+      0.8
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      37,
+      58,
+      506,
+      96
+    ],
+    "is_bold": 1,
+    "level": "H2",
+    "label": "H2",
+    "class": "heading"
+  },
+  {
+    "page": 25,
+    "text": "Complex Samples Logistic Regression Reference Category",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      26,
+      668,
+      655,
+      701
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 25,
+    "text": "Complex Samples Logistic Regression Model",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      34,
+      768,
+      519,
+      800
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 26,
+    "text": "plex Samples Logistic Regression Statistics",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      123,
+      423,
+      503,
+      453
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 27,
+    "text": "Complex Samples Hypothesis Tests",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      46,
+      110,
+      431,
+      142
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 27,
+    "text": "Complex Samples Logistic Regression Odds Ratios",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      30,
+      538,
+      578,
+      571
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 27,
+    "text": "Complex Samples Logistic Regression Save",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      36,
+      830,
+      507,
+      861
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 28,
+    "text": "mplex Samples Logistic Regression Option",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      101,
+      354,
+      482,
+      386
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 28,
+    "text": "CSLOGISTIC Command Additional Features",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      39,
+      840,
+      511,
+      871
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 29,
+    "text": "Complex Samples Ordinal Regression",
+    "font_sizes": [
+      16.0
+    ],
+    "normalized_font_sizes": [
+      0.8
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      39,
+      117,
+      503,
+      157
+    ],
+    "is_bold": 1,
+    "level": "H2",
+    "label": "H2",
+    "class": "heading"
+  },
+  {
+    "page": 29,
+    "text": "Analyze > Complex Samples > Ordinal Regression...",
+    "font_sizes": [
+      10.0,
+      10.0,
+      10.0,
+      10.0,
+      10.0
+    ],
+    "normalized_font_sizes": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold",
+      "IBMPlexSans",
+      "IBMPlexSans-Bold",
+      "IBMPlexSans",
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20,
+      4,
+      20,
+      4,
+      20
+    ],
+    "bbox": [
+      96,
+      464,
+      506,
+      489
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 29,
+    "text": "Complex Samples Ordinal Regression Response Probabilities",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      49,
+      845,
+      685,
+      881
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 29,
+    "text": "Complex Samples Ordinal Regression Model",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      36,
+      944,
+      518,
+      980
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 30,
+    "text": "Non-Nested Terms",
+    "font_sizes": [
+      10.0
+    ],
+    "normalized_font_sizes": [
+      0.5
+    ],
+    "fonts": [
+      "IBMPlexSans"
+    ],
+    "flags": [
+      4
+    ],
+    "bbox": [
+      105,
+      60,
+      246,
+      85
+    ],
+    "is_bold": 0,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 30,
+    "text": "Complex Samples Ordinal Regression Statistics",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      32,
+      538,
+      549,
+      570
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 31,
+    "text": "Complex Samples Hypothesis Tests",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      43,
+      371,
+      430,
+      403
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 31,
+    "text": "Complex Samples Ordinal Regression Odds Ratios",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      29,
+      798,
+      576,
+      834
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 32,
+    "text": "Complex Samples Ordinal Regression Save",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      38,
+      143,
+      503,
+      174
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 32,
+    "text": "Complex Samples Ordinal Regression Options",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      34,
+      619,
+      533,
+      651
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 33,
+    "text": "CSORDINAL Command Additional Features",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      36,
+      243,
+      507,
+      276
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 33,
+    "text": "Complex Samples Cox Regression",
+    "font_sizes": [
+      16.0
+    ],
+    "normalized_font_sizes": [
+      0.8
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      41,
+      519,
+      462,
+      556
+    ],
+    "is_bold": 1,
+    "level": "H2",
+    "label": "H2",
+    "class": "heading"
+  },
+  {
+    "page": 35,
+    "text": "Predictors",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      65,
+      149,
+      179,
+      180
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 35,
+    "text": "Define Time-Dependent Predictor",
+    "font_sizes": [
+      13.0
+    ],
+    "normalized_font_sizes": [
+      0.65
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      89,
+      356,
+      431,
+      385
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 35,
+    "text": "Subgroups",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      66,
+      867,
+      182,
+      898
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 36,
+    "text": "Model",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      69,
+      61,
+      136,
+      92
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 36,
+    "text": "Statistics",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      67,
+      628,
+      169,
+      661
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 37,
+    "text": "Plots",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      70,
+      484,
+      126,
+      514
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 37,
+    "text": "Hypothesis Tests",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      59,
+      719,
+      244,
+      752
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 38,
+    "text": "Save",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      70,
+      189,
+      125,
+      220
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 39,
+    "text": "Export",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      69,
+      187,
+      144,
+      215
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 40,
+    "text": "Options",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      68,
+      58,
+      153,
+      94
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 40,
+    "text": "CSCOXREG Command Additional Features",
+    "font_sizes": [
+      14.0
+    ],
+    "normalized_font_sizes": [
+      0.7
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      39,
+      784,
+      497,
+      815
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 41,
+    "text": "Notices",
+    "font_sizes": [
+      18.0
+    ],
+    "normalized_font_sizes": [
+      0.9
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      68,
+      85,
+      170,
+      121
+    ],
+    "is_bold": 1,
+    "level": "H2",
+    "label": "H2",
+    "class": "heading"
+  },
+  {
+    "page": 42,
+    "text": "Trademarks",
+    "font_sizes": [
+      16.0
+    ],
+    "normalized_font_sizes": [
+      0.8
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      64,
+      679,
+      210,
+      712
+    ],
+    "is_bold": 1,
+    "level": "H2",
+    "label": "H2",
+    "class": "heading"
+  },
+  {
+    "page": 43,
+    "text": "Index",
+    "font_sizes": [
+      20.0
+    ],
+    "normalized_font_sizes": [
+      1.0
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      69,
+      79,
+      157,
+      110
+    ],
+    "is_bold": 1,
+    "level": "H1",
+    "label": "H1",
+    "class": "heading"
+  },
+  {
+    "page": 43,
+    "text": "A",
+    "font_sizes": [
+      12.0
+    ],
+    "normalized_font_sizes": [
+      0.6
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      76,
+      167,
+      85,
+      186
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 43,
+    "text": "C",
+    "font_sizes": [
+      12.0
+    ],
+    "normalized_font_sizes": [
+      0.6
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      75,
+      567,
+      84,
+      584
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 44,
+    "text": "D",
+    "font_sizes": [
+      12.0
+    ],
+    "normalized_font_sizes": [
+      0.6
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      74,
+      266,
+      87,
+      286
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 44,
+    "text": "M",
+    "font_sizes": [
+      12.0
+    ],
+    "normalized_font_sizes": [
+      0.6
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      432,
+      314,
+      448,
+      335
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 44,
+    "text": "E",
+    "font_sizes": [
+      12.0
+    ],
+    "normalized_font_sizes": [
+      0.6
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      75,
+      587,
+      84,
+      606
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  },
+  {
+    "page": 45,
+    "text": "S",
+    "font_sizes": [
+      12.0
+    ],
+    "normalized_font_sizes": [
+      0.6
+    ],
+    "fonts": [
+      "IBMPlexSans-Bold"
+    ],
+    "flags": [
+      20
+    ],
+    "bbox": [
+      74,
+      646,
+      86,
+      663
+    ],
+    "is_bold": 1,
+    "level": "H3",
+    "label": "H3",
+    "class": "heading"
+  }
+]

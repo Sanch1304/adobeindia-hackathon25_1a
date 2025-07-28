@@ -1,0 +1,9 @@
+PyMuPDF
+
+numpy>=2.0.0,<2.3.0
+
+opencv-python-headless==4.12.0.88
+   # Ensures compatibility with OpenCV
+onnxruntime==1.19.2
+
+
