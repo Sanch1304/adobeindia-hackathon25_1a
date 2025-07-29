@@ -72,16 +72,18 @@ These commands are used to build and run the solution within a Docker container 
 
 ```bash
 docker build --platform linux/amd64 -t headingextractor:latest .
+
 ```
 
 ### Run the Container
 
 ```bash
 docker run --rm \
-  -v $(pwd)/input:/app/input \
-  -v $(pwd)/output:/app/output \
+  -v $(pwd)/input:/workforce/input \
+  -v $(pwd)/output:/workforce/output \
   --network none \
   headingextractor:latest
+
 ```
 
 ---
