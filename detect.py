@@ -13,7 +13,7 @@ total_start = time.time()
 PDF_PATH = "input/IBM_SPSS_Complex_Samples.pdf"
 IMAGE_DIR = "data/images"
 OUTPUT_DIR = "app/processing_data"
-out = "/output"
+out = "output"
 
 DPI = 100
 
